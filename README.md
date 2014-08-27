@@ -1,6 +1,6 @@
 # CUT Group
 
-This is the website for http://cutgroup.smartchicagoapps.org/
+This is the website for http://cut.openoakland.org/ which was forked from the original site in Chicago at http://cutgroup.smartchicagoapps.org
 
 ## Deployment
 
@@ -8,7 +8,7 @@ To deploy the site, run these commands:
     
     make staging
 
-After validating the deployment at the staging site, http://cutgroup-staging.smartchicagoapps.org, deploy to production:
+After validating the deployment at the staging site, http://cut-staging.openoakland.org, deploy to production:
     
     make deploy
 
