@@ -14,7 +14,7 @@
 		.projection(projection);
 
 	// get topoJSON of Oakland zipcodes
-	d3.json('cutgroup/data/oakzipstopo.json', function(err, oak){
+	d3.json('data/oakzipstopo.json', function(err, oak){
 		if(err) return console.error(err);
 
 		var zips = topojson.feature(oak, oak.objects.oakzips);
