@@ -1,6 +1,6 @@
 # Civic User Testing Group
 
-This is the website for http://cutgroup.openoakland.org/ which was forked from the original site in Chicago at http://cutgroup.smartchicagoapps.org
+This is the future website for http://codeforsanfrancisco.org/cutgroup which was forked from OpenOakland's site http://cutgroup.openoakland.org/, which was forked from the original site in Chicago at http://cutgroup.smartchicagoapps.org
 
 ### LICENSE
 
